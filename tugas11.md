@@ -7,7 +7,7 @@
 ## 3. Todo Index
 ![Alt text](/screenshot/tugas11/Screenshot%20(438).png)
 ## 4. Todo Show
-![Alt text](/screenshot/tugas11/Screenshot%20(439).png)gi
+![Alt text](/screenshot/tugas11/Screenshot%20(439).png)
 ## 5. Todo Show Forbidden
 ![Alt text](/screenshot/tugas11/Screenshot%20(440).png)
 ## 6. Todo Search
